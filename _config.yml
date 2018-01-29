@@ -30,7 +30,7 @@ address:
   postcode:
   city: Pune
   country: India
-google_analytics: UA-69300817-1
+google_analytics: GTM-5B482N7
 
 # needed for travis-ci build
 exclude: [vendor]
